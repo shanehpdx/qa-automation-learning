@@ -10,7 +10,7 @@ I test with my mind.
 
 I do not test with my code; he who test with his code has forgotten the face of his father. 
 
-I test with my heart"
+I test with my heart and mind"
 
 'The Test Automaters Creed' adapted from Stephen King's 'Gunslingers Creed' documented in The Dark Tower series.  
 

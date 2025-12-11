@@ -1,0 +1,23 @@
+{
+  "name": "qa-automation-learning",
+  "version": "1.0.0",
+  "description": "This repository documents my progression into JavaScript, automation, and Playwright-based testing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanehpdx/qa-automation-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shanehpdx/qa-automation-learning/issues"
+  },
+  "homepage": "https://github.com/shanehpdx/qa-automation-learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  }
+}
