@@ -1,17 +1,21 @@
 # QA Automation Learning Journey
 
-This repository documents my progression into JavaScript, automation, and Playwright-based testing.
+This repository documents my intentional progression into JavaScript-based test automation, with a focus on Playwright.
 
-Each folder represents a milestone in capability development—with reflections, exercises, and working artifacts demonstrating understanding and growth rather than polished end results.
+Rather than showcasing polished or production-ready frameworks, this repo captures **how I learn**—through small experiments, reflection, and working examples that demonstrate understanding and growth over time.
 
 ## Structure
 
-- `01-js-fundamentals/` — Language foundations and syntax fluency
-- `02-playwright-fundamentals/` — Core automation test skills (coming soon)
+- **01-js-fundamentals/**  
+  Language foundations, syntax fluency, and problem-solving exercises
+
+- **02-playwright-fundamentals/**  
+  Core Playwright concepts, test structure, locators, assertions, and exploratory automation patterns *(in progress)*
 
 ## Purpose
 
-This repo acts as both:
-- A knowledge portfolio
+This repository serves as:
+
+- A learning portfolio
 - A public learning journal
-- A demonstration of my ability to practice, iterate, and grow intentionally as an automation engineer
+- Evidence of my ability to practice deliberately, iterate quickly, and grow intentionally as an automation-focused QA engineer
