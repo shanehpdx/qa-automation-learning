@@ -18,4 +18,4 @@ This repository serves as:
 
 - A learning portfolio
 - A public learning journal
-- Evidence of my ability to practice deliberately, iterate quickly, and grow intentionally as an automation-focused QA engineer
+- Evidence of my ability to practice deliberately, iterate quickly, and grow intentionally as an automation-focused QA engineer.
